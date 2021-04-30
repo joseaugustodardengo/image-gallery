@@ -1,0 +1,16 @@
+.row {
+  margin-top: 10px;
+
+  .col-md-4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    img:hover {
+      cursor: pointer;
+      transform: scale(1.1);
+      transition: 1s;
+    }
+  }
+
+}
+
